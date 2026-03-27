@@ -1,5 +1,4 @@
-streamlit==1.32.2
-Pillow==10.2.0
-rembg==2.0.52
-onnxruntime==1.16.3
-numpy==1.26.4
+streamlit
+Pillow
+rembg[gpu]==2.0.74
+onnxruntime>=1.24.0
