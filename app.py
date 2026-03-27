@@ -57,7 +57,7 @@ with col1:
 with col2:
     st.link_button(
         "📸 Instagram",
-        "https://instagram.com/_shubhhh_012",
+        "https://instagram.com/_shubhhhh_012",
         use_container_width=True
     )
 
