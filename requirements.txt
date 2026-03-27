@@ -2,3 +2,5 @@ streamlit
 Pillow
 rembg[gpu]==2.0.74
 onnxruntime>=1.24.0
+libgl1
+libglib2.0-0
